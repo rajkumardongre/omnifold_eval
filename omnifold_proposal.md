@@ -3,7 +3,7 @@
 **GSoC 2026 Proposal**
 
 Rajkumar Dongre
-March 4, 2026
+March, 2026
 
 ---
 
