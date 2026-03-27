@@ -125,8 +125,8 @@ The detailed classification shows 24 physics observables, 1 nominal weight, 1 MC
 
 | #   | Deliverable                         | Description                                                                                                          |
 | --- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1   | `**omnifold-schema` specification** | YAML schema (versioned) defining required and optional fields for OmniFold publications, with a validation CLI tool. |
-| 2   | `**omnifold-pub` Python package**   | Installable via pip. Core API for publishing, loading, and analyzing OmniFold weight files.                          |
+| 1   | **`omnifold-schema` specification** | YAML schema (versioned) defining required and optional fields for OmniFold publications, with a validation CLI tool. |
+| 2   | **`omnifold-pub` Python package**   | Installable via pip. Core API for publishing, loading, and analyzing OmniFold weight files.                          |
 | 3   | **Container format specification**  | HDF5 layout with standardized group/dataset naming, attributes, and optional Parquet export.                         |
 | 4   | **Validation suite**                | Automated tests for normalization, closure, and weight stability.                                                    |
 | 5   | **HEPData integration templates**   | Submission YAML and tooling for mapping OmniFold outputs to HEPData records.                                         |
@@ -988,6 +988,8 @@ ofp.plot(hist, xlabel=r"$\tau_{21}$", save="tau21_reinterpretation.pdf")
 ## 3. Timeline
 
 The project duration is 175 hours (medium difficulty), with mentors available June–October 2026.
+
+I will be **available for the entire GSoC 2026 timeline** (community bonding through final evaluation) and intend to treat this project as my **primary commitment** during the coding period — **full time**, with no conflicting employment or coursework that would block regular mentor syncs, milestones, or deliverables.
 
 ### 3.1. Pre-GSoC Period
 
