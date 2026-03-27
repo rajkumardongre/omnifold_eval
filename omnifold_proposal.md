@@ -32,7 +32,7 @@ March, 2026
     3. [HEPData Integration Layer](#23-hepdata-integration-layer)
     4. [Validation Framework](#24-validation-framework)
     5. [Architecture Overview](#25-architecture-overview)
-    6. [Python API - `omnifold-pub](#26-python-api--omnifold-pub)`](#26-python-api--omnifold-pub)
+    6. [Python API - `omnifold-pub`](#26-python-api--omnifold-pub)
     7. [Example: End-to-End Consumer Workflow](#27-example-end-to-end-consumer-workflow)
 3. [Timeline](#3-timeline)
     1. [Pre-GSoC Period](#31-pre-gsoc-period)
